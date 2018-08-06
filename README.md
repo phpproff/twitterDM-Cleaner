@@ -4,7 +4,7 @@ Caution: The following code will remove all your twitter direct messages.
 
 Instructions:
 Open your direct messages window, open console , ( chrome users just hit F12 )
-pase the following code:
+paste the following code:
 
 
 window.delscrpt = setInterval(function() {
