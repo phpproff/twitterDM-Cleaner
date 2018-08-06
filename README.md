@@ -2,10 +2,13 @@
 Twitter MASS DM REMOVER
 Caution: The following code will remove all your twitter direct messages.
 
-Instructions:
+---
+
+### Introduction
+
 Open your direct messages window, open console , ( chrome users just hit F12 )
 paste the following code:
-
+---
 
 window.delscrpt = setInterval(function() {
   $('.DMInboxItem').each(function() { 
